@@ -3,8 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Hemanth1845/reactapp205-gitactions
-",
+  "homepage": "https://github.com/Hemanth1845/reactapp2025-gitactions",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
